@@ -29,4 +29,5 @@ On my list to learn:
 <div id="software-tools" style="display: flex; align-items: center;">
     <img align="center" alt="Rust" title="Rust" heigh title="Python"t="35" width="45" src="https://github.com/luccareinehr/luccareinehr/assets/75084099/65b4412b-0240-4b7b-ae80-a8587f036fc2">
     <img align="center" alt="Qt" title="Qt" height="30" width="40" src="https://github.com/luccareinehr/luccareinehr/assets/75084099/bd01cdb1-4b41-48f6-bb4a-3402e25336be">
+    <img align="center" alt="LabView" title="LabView" height="30" width="30" src="https://github.com/luccareinehr/luccareinehr/assets/75084099/417502b6-8cd4-4e7c-8058-c0383d82122d">
 </div>
