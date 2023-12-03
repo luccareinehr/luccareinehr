@@ -11,6 +11,7 @@ Tools I'm using:
     <img align="center" alt="C++" title="C++" height="40" width="40" src="https://github.com/luccareinehr/luccareinehr/assets/75084099/cf725903-23bf-45bb-bf54-47e261e7df09">
     <img align="center" alt="Tcl" title="Tcl" height="40" width="20" src="https://github.com/luccareinehr/luccareinehr/assets/75084099/5d25404a-d3b9-43c3-987b-7ed6f313edfa">
     <img align="center" alt="MATLAB" title="MATLAB" height="30" width="35" src="https://github.com/luccareinehr/luccareinehr/assets/75084099/fe9a7b68-77df-4d3b-a887-8d0478d48d8d">
+    <img align="center" alt="ARM" title="ARM" height="30" width="45" src="https://github.com/luccareinehr/luccareinehr/assets/75084099/e699c8dd-58a7-479a-96cb-077050d0f92d">
 </div>
 </br>
 
